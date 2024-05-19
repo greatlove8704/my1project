@@ -1,5 +1,5 @@
 # Dự đoán giá vé máy bay
-Project 16: https://drive.google.com/drive/folders/18FkSxMvTpR2KQrP5OZTRWZtPMIuz7amW?usp=sharing
+Project 16: (file random_model.pkl quá lớn nên để tại đây) https://drive.google.com/drive/folders/18FkSxMvTpR2KQrP5OZTRWZtPMIuz7amW?usp=sharing
 
 Nhóm gồm: Nguyễn Bảo Sơn 22022539 và Chu Huỳnh Đức 22022612
 
