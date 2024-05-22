@@ -106,7 +106,7 @@ Các file cần thiết:
 - function.py: web app interface dùng để creat input field, processing user selection và đưa ra kết quả 
 
 
-run:
+cách run: hãy mở untitled9.ipynb trong google colab, sau đó upload các file cần thiết: app.py, function.py, df.csv, test_data.csv, random_model.pkl, tạo thêm 1 folder đặt tên là assets sau đó upload 2 hình ảnh ở trong assets vào. Sau cùng ấn run all là được
 
 
 - Display prediction:
