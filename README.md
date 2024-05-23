@@ -5,7 +5,7 @@ Nhóm gồm: Chu Huỳnh Đức 22022612
 
 1.Tổng quan: Máy bay là một phương tiện di chuyển phổ biến trong thế giới hiện đại ngày nay. Tuy nhiên vé máy bay là một rào cản lớn đối với nhiều người vì giá thành cao và nhiều biến động. Chính vì vậy, phần mềm này ra đời với sứ mệnh giúp cho khách hàng có cái nhìn tổng quan hơn về giá vé máy bay, giúp sắp xếp lịch trình và lựa chọn chuyến bay phù hợp với giá cả phải chăng.
 
-Dự án như cái tên nhằm mục đích dự đoán giá vé máy bay dựa trên 1 tập dự liệu nhất định. Giá vé được dự đoán dựa trên hãng máy bay, địa điểm, trạm dừng, ngày giờ, hạng vé thường hay business. Dự án bao gồm 1 số tính năng:
+Dự án nhằm mục đích dự đoán giá vé máy bay dựa trên 1 tập dự liệu nhất định. Giá vé được dự đoán dựa trên hãng máy bay, địa điểm, trạm dừng, ngày giờ, hạng vé thường hay business. Dự án bao gồm 1 số tính năng:
 
 -Phân tích dữ liệu: Dữ liệu được phân tích sâu chuyên sâu để tìm các mẫu và ẩn thông tin chi tiết có thể được sử dụng để đưa ra độ chính xác dự đoán.
 
