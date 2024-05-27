@@ -1,7 +1,7 @@
 # Dự đoán giá vé máy bay
 Project 16: (file random_model.pkl quá lớn nên để tại đây) https://drive.google.com/drive/folders/18FkSxMvTpR2KQrP5OZTRWZtPMIuz7amW?usp=sharing
 
-Nhóm gồm: Chu Huỳnh Đức 22022612
+Nhóm gồm: Chu Huỳnh Đức 22022612 và Nguyễn Bảo Sơn 22022539
 
 1.Tổng quan: Máy bay là một phương tiện di chuyển phổ biến trong thế giới hiện đại ngày nay. Tuy nhiên vé máy bay là một rào cản lớn đối với nhiều người vì giá thành cao và nhiều biến động. Chính vì vậy, phần mềm này ra đời với sứ mệnh giúp cho khách hàng có cái nhìn tổng quan hơn về giá vé máy bay, giúp sắp xếp lịch trình và lựa chọn chuyến bay phù hợp với giá cả phải chăng.
 
